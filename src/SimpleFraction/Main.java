@@ -1,3 +1,4 @@
+package SimpleFraction;
 
 public class Main {
 

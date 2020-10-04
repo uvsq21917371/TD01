@@ -1,3 +1,4 @@
+package SimpleFraction;
 
 public class Fraction {
 	private int x;
@@ -26,4 +27,5 @@ public class Fraction {
 	public String toString() {
 		String s=x+" / "+y+" = "+resultat;
 		return s;
+	}
 }
